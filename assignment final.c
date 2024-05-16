@@ -1,10 +1,3 @@
-/*
-1221206997 CHA AIK HONG
-1221206977 OWEN TAN CHEN YANG
-1221208065 LEE JING YONG
-1221206559 NG DICKWE
-*/
-
 #include<stdio.h>
 #include<string.h>
 #include<math.h>
